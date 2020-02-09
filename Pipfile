@@ -8,6 +8,8 @@ pylint = "*"
 
 [packages]
 numpy = "*"
+matplotlib = "*"
+numba = "*"
 
 [requires]
 python_version = "3.7"
